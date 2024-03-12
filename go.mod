@@ -1,6 +1,6 @@
 module github.com/hugo-hafner/go-http
 
-go 1.21.3
+go 1.22.1
 
 require go.uber.org/fx v1.20.1
 
